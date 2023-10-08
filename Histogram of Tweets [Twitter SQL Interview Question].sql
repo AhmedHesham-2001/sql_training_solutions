@@ -1,5 +1,7 @@
 /* this is the solution to the "Histogram of Tweets [Twitter SQL Interview Question]"
+
 the link to this Question : https://datalemur.com/questions/sql-histogram-tweets
+
 the main keywords to this problem is subquery and between for dates */
 
 SELECT 
